@@ -1,7 +1,7 @@
 # ImageRecognition
 A repository written in python using PyQT with algorithms for image recognition:
 
-#point operations on an image:
+# point operations on an image:
 Image desaturation
 Negative (complementary color)
 Contrast - linear, logarithmic, power
@@ -10,17 +10,17 @@ Saturation
 Sum, difference and product of images
 General transformation on monochrome channel
 
-#Edge filters:
+# Edge filters:
 Roberts
 Prewit
 Sobel
 Kirsch
 Laplasian (Classic, LoG, Dog)
 
-#Binarization Algorithms
+# Binarization Algorithms
 Otsu
 
-#Corner detection
+# Corner detection
 Moravec
 Harris
 
